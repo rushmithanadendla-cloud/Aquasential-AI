@@ -1,0 +1,1 @@
+@echo off\ncd /d "%~dp0"\nstart "" "%~dp0index.html"\necho Aquasential AI demo opened. This front-end prototype does not need a backend.\npause\n
